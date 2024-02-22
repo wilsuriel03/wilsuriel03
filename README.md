@@ -44,7 +44,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wilsuriel03&show_icons=true&card_width=700&count_private=true&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=wilsuriel03&locale=en&mode=weekly&theme=tokyonight&card_width=600&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=wilsuriel03&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
